@@ -26,11 +26,13 @@ Marius has the Problem is enough.
 |-- README.md
 |-- contracts
 |-- frontend
+|-- backend 
 ```
 
 `./MockData.csv` contains the clean up version Weekyl Report of Marius DAO's  
 `./contracts` contains the Smart Contract  
-`./frontend` contains the Frontend  
+`./frontend` contains the Frontend. Alias buttons.
+`./backend` contains the Backend. Alias The image generation logic  
 
 ### Tech Stack
 
@@ -39,6 +41,6 @@ Marius has the Problem is enough.
 
 ### Contact
 
-|Name|OccupationTelegram|Discord|E-mail|
+|Name|Occupation|Telegram|Discord|E-mail| 
 |:-|:-|:-|:-|:-|
 |Frank Dierolf|web3ar Developer|`@FrankBevr`|`FrankBevr`|`frank_dierolf@web.de`|
